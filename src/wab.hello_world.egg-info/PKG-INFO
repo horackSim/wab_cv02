@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: wab.hello-world
+Version: 1.0.0
+Summary: Simple hello world service
+Author-email: xhorack4 <xhorack4@mendelu.cz>
+License: MIT
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: fastapi>=0.103.2
+Requires-Dist: uvicorn[standard]>=0.23.2
+
+# wab_cv02
+Webove aplikace beckend cv 02
+
+## Hello world service 
+- used project manage: [PDM](https://pdm.fming.dev/latest/)
+- REST framework: [FastAPI]pdm

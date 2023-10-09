@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/example_package/__init__.py
+src/wab.hello_world.egg-info/PKG-INFO
+src/wab.hello_world.egg-info/SOURCES.txt
+src/wab.hello_world.egg-info/dependency_links.txt
+src/wab.hello_world.egg-info/requires.txt
+src/wab.hello_world.egg-info/top_level.txt
